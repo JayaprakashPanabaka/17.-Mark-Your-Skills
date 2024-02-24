@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading {
+    /* text-align: left; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.li-item {
+    text-decoration: line-through;
+    color: brown;
+    font-size: 1.3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.checkbox {
+    color: blue;
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
